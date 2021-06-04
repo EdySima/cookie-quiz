@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cookie-quiz/static/css/main.daa0de82.chunk.css",
+    "main.js": "/cookie-quiz/static/js/main.e1766328.chunk.js",
+    "main.js.map": "/cookie-quiz/static/js/main.e1766328.chunk.js.map",
+    "runtime-main.js": "/cookie-quiz/static/js/runtime-main.51309412.js",
+    "runtime-main.js.map": "/cookie-quiz/static/js/runtime-main.51309412.js.map",
+    "static/js/2.84d79292.chunk.js": "/cookie-quiz/static/js/2.84d79292.chunk.js",
+    "static/js/2.84d79292.chunk.js.map": "/cookie-quiz/static/js/2.84d79292.chunk.js.map",
+    "static/js/3.3c583d46.chunk.js": "/cookie-quiz/static/js/3.3c583d46.chunk.js",
+    "static/js/3.3c583d46.chunk.js.map": "/cookie-quiz/static/js/3.3c583d46.chunk.js.map",
+    "index.html": "/cookie-quiz/index.html",
+    "static/css/main.daa0de82.chunk.css.map": "/cookie-quiz/static/css/main.daa0de82.chunk.css.map",
+    "static/js/2.84d79292.chunk.js.LICENSE.txt": "/cookie-quiz/static/js/2.84d79292.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cookie-quiz/static/media/LuckiestGuy-Regular.04dea529.ttf",
+    "static/media/Breeze.png": "/cookie-quiz/static/media/Breeze.ea92115a.png",
+    "static/media/Cozy.png": "/cookie-quiz/static/media/Cozy.5e3e50a3.png",
+    "static/media/Deep.png": "/cookie-quiz/static/media/Deep.988a3c4d.png",
+    "static/media/Evergreen.png": "/cookie-quiz/static/media/Evergreen.9b54ab36.png",
+    "static/media/Grayscale.png": "/cookie-quiz/static/media/Grayscale.8f99ca9f.png",
+    "static/media/Intro.9e150af0.mp3": "/cookie-quiz/static/media/Intro.9e150af0.mp3",
+    "static/media/Lenna.png": "/cookie-quiz/static/media/Lenna.bbba5c1d.png",
+    "static/media/Logo.3f9e98d7.png": "/cookie-quiz/static/media/Logo.3f9e98d7.png",
+    "static/media/OneCookie.1680a5e4.png": "/cookie-quiz/static/media/OneCookie.1680a5e4.png",
+    "static/media/ThreeCookies.5ff6e960.png": "/cookie-quiz/static/media/ThreeCookies.5ff6e960.png",
+    "static/media/poza2.png": "/cookie-quiz/static/media/poza2.4e3a5150.png",
+    "static/media/poza3.png": "/cookie-quiz/static/media/poza3.6b308587.png",
+    "static/media/poza4.png": "/cookie-quiz/static/media/poza4.3da4b710.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51309412.js",
+    "static/js/2.84d79292.chunk.js",
+    "static/css/main.daa0de82.chunk.css",
+    "static/js/main.e1766328.chunk.js"
+  ]
+}
